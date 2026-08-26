@@ -1,5 +1,6 @@
 from bmp import ReadBMP, WriteBMP
 
+
 class ImageProcessor:
     def __init__(self, filename):
         # Load pixel grid and store dimensions
